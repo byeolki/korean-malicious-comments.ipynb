@@ -17,6 +17,6 @@
 ![image](https://github.com/byeolki/korean-malicious-comments.ipynb/assets/97008863/cce180e3-c553-4a3e-abe3-41ba92ae4a47)
 
 ## 📝 Review
-- Review : 위 학습을 진행하면서 koBert와 transformers를 배우고, 코드에 오류를 해결하는 능력을 더욱 키울 수 있었습니다.
+- Review : 위 학습을 진행하면서 koBert와 transformers를 배우고, 코드에 오류를 해결하는 능력을 더욱 키울 수 있었습니다.<br>또한 들여쓰기 잊어먹어서 학습에 난항을 겪었기 때문에 다시 해당일이 일어나지 않도록 노력하게 되었습니다. 
 
 *테스트 진행 X
